@@ -32,7 +32,7 @@ namespace worldinhealth123.webui
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("deneme1112");
+                    await context.Response.WriteAsync("deneme111asdasd2");
                 });
             });
         }
