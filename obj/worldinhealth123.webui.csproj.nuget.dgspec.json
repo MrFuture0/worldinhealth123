@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\halil\\worldinhealth123\\worldinhealth123.webui\\worldinhealth123.webui.csproj": {}
+    "C:\\Users\\erend\\Desktop\\aa\\worldinhealth123\\worldinhealth123.webui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\halil\\worldinhealth123\\worldinhealth123.webui\\worldinhealth123.webui.csproj": {
+    "C:\\Users\\erend\\Desktop\\aa\\worldinhealth123\\worldinhealth123.webui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halil\\worldinhealth123\\worldinhealth123.webui\\worldinhealth123.webui.csproj",
+        "projectUniqueName": "C:\\Users\\erend\\Desktop\\aa\\worldinhealth123\\worldinhealth123.webui.csproj",
         "projectName": "worldinhealth123.webui",
-        "projectPath": "C:\\Users\\halil\\worldinhealth123\\worldinhealth123.webui\\worldinhealth123.webui.csproj",
-        "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halil\\worldinhealth123\\worldinhealth123.webui\\obj\\",
+        "projectPath": "C:\\Users\\erend\\Desktop\\aa\\worldinhealth123\\worldinhealth123.webui.csproj",
+        "packagesPath": "C:\\Users\\erend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erend\\Desktop\\aa\\worldinhealth123\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erend\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

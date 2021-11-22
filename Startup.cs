@@ -33,6 +33,7 @@ namespace worldinhealth123.webui
                 endpoints.MapGet("/", async context =>
                 {
                     await context.Response.WriteAsync("trying 123");
+
                 });
             });
         }
