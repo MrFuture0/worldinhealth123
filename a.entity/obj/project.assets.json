@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halil\\OneDrive\\Desktop\\worldinhealth123\\a.entity\\a.entity.csproj",
+      "projectUniqueName": "C:\\Users\\halil\\OneDrive\\Desktop\\1231\\worldinhealth123\\a.entity\\a.entity.csproj",
       "projectName": "a.entity",
-      "projectPath": "C:\\Users\\halil\\OneDrive\\Desktop\\worldinhealth123\\a.entity\\a.entity.csproj",
+      "projectPath": "C:\\Users\\halil\\OneDrive\\Desktop\\1231\\worldinhealth123\\a.entity\\a.entity.csproj",
       "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halil\\OneDrive\\Desktop\\worldinhealth123\\a.entity\\obj\\",
+      "outputPath": "C:\\Users\\halil\\OneDrive\\Desktop\\1231\\worldinhealth123\\a.entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",

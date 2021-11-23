@@ -33,6 +33,7 @@ namespace shopapp.webui.Controllers
 
             var productViewModel = new ProductViewModel()
             {
+                //product controller with view model
                 Products =products
             };
 

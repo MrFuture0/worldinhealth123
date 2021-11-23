@@ -1,14 +1,10 @@
-using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
+
 
 namespace shopapp.webui
 {
@@ -20,8 +16,8 @@ namespace shopapp.webui
         public void ConfigureServices(IServiceCollection services)
         {
             // mvc
-            // razor pages
-           // services.AddScoped<IProductRepistory , EfCoreProductRepistory>();
+            // razor pag es
+            //services.AddScoped<IProductRepistory , EfCoreProductRepistory>();
             services.AddControllersWithViews();
         }
 
