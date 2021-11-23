@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\halil\\OneDrive\\Desktop\\asasa\\shopapp.webui\\shopapp.webui.csproj": {}
+    "C:\\Users\\halil\\OneDrive\\Desktop\\shopapp1\\worldinhealth123\\shopapp.webui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\halil\\OneDrive\\Desktop\\asasa\\shopapp.webui\\shopapp.webui.csproj": {
+    "C:\\Users\\halil\\OneDrive\\Desktop\\shopapp1\\worldinhealth123\\shopapp.webui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halil\\OneDrive\\Desktop\\asasa\\shopapp.webui\\shopapp.webui.csproj",
+        "projectUniqueName": "C:\\Users\\halil\\OneDrive\\Desktop\\shopapp1\\worldinhealth123\\shopapp.webui.csproj",
         "projectName": "shopapp.webui",
-        "projectPath": "C:\\Users\\halil\\OneDrive\\Desktop\\asasa\\shopapp.webui\\shopapp.webui.csproj",
+        "projectPath": "C:\\Users\\halil\\OneDrive\\Desktop\\shopapp1\\worldinhealth123\\shopapp.webui.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halil\\OneDrive\\Desktop\\asasa\\shopapp.webui\\obj\\",
+        "outputPath": "C:\\Users\\halil\\OneDrive\\Desktop\\shopapp1\\worldinhealth123\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
