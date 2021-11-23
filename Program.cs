@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace worldinhealth123.webui
+namespace shopapp.webui
 {
     public class Program
     {
